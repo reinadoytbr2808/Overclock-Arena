@@ -251,35 +251,9 @@ flowchart LR
     A <--> C8["Cliente 08<br/>192.168.0.10"]
 ```
 
-### Imagem ilustrativa da instalação
 
-Adicione a imagem gerada à pasta `imagens` com o nome `instalacao-timer-cafe.png` e use:
 
-```markdown
-![Instalação ilustrativa do Timer Café](imagens/instalacao-timer-cafe.png)
-```
 
-> A imagem é conceitual. As telas reais podem variar conforme a versão instalada.
-
----
-
-## 🧪 Testes de conectividade
-
-<img width="600" height="800" alt="Testes do projeto Overclock-Fight" src="https://github.com/user-attachments/assets/ae383588-6f1a-47df-901b-e52f48a99608" />
-
-Abra o **Prompt de Comando**.
-
-### Conferir o endereço IP
-
-```bat
-ipconfig /all
-```
-
-### Testar o roteador
-
-```bat
-ping 192.168.0.1
-```
 
 ### Testar o servidor a partir de um cliente
 
