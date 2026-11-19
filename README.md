@@ -2,7 +2,7 @@
 
 
 
-# 🎮 OVERCLOCK-FIGHT | LAN HOUSE CASEIRA
+# 🎮 OVERCLOCK-ARENA | LAN HOUSE CASEIRA
 
 <p align="center">
   <strong>Projeto de Infraestrutura de Redes e Montagem de uma LAN House</strong>
@@ -11,6 +11,11 @@
 <p align="center">
   🖥️ 8 Computadores Clientes | 🗄️ 1 Servidor | 🌐 Rede Local
 </p>
+
+<p align="center">
+  🎮 Onde desempenho, competição e tecnologia se encontram.
+</p>
+
 
 ---
 
@@ -353,7 +358,8 @@ O projeto **OVERCLOCK-FIGHT** foi dividido em quatro grupos de trabalho para dis
 ---
 
 <p align="center">
-  <strong>OVERCLOCK-FIGHT</strong><br>
+  <strong>OVERCLOCK-ARENA</strong><br>
   Projeto acadêmico de infraestrutura de redes.
 </p>
+
   
